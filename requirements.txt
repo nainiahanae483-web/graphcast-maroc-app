@@ -4,6 +4,5 @@ pandas
 xarray
 pydeck
 plotly
-folium
-streamlit_folium
-altair
+netCDF4
+h5netcdf
